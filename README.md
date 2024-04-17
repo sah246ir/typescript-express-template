@@ -11,7 +11,7 @@ This is a template for building TypeScript projects with Express. It provides a 
 1. Clone this repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/sah246ir/typescript-express-template.git
     ```
 
 2. Navigate to the project directory:
