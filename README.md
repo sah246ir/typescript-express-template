@@ -1,5 +1,4 @@
-Got it! Here's the updated `README.md` reflecting the structure you provided:
-
+ 
 ---
 
 # TypeScript Express Template
