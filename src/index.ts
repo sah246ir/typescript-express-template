@@ -9,9 +9,10 @@ import { config } from "dotenv";
 config()
 const app = express() 
 // initialize services
+export const clients = (process.env.CLIENTS || "").split(",")
 
 app.use(cors({
-    origin: ['urls list'],
+    origin: clients,// array of client urls
     credentials: true
 }))
 
